@@ -1,0 +1,9 @@
+h1{
+    color: rgb(0, 255, 17);
+    text-align: center;
+    font-family:sans-serif;
+    cursor:pointer;
+}
+body{
+    background-color: black;
+}
